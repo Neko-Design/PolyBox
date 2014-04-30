@@ -4,6 +4,9 @@ Welcome to PolyBox! This blogging software was developed by Ewen McCahon as a si
 
 In it's default setting, PolyBox doesn't use JavaScript or HTML5, so it's compatible with most users. If you wish to use some of the advanced features, enable the 'Modern Theme' on the settings page.
 
+Features
+------
+
 Along with ease of use and simplicity, PolyBox offers a few other features such as:
 
   - Varying User access levels
@@ -25,6 +28,15 @@ As a student, I don't really have time to make immediate fixes on the code or up
 
 In it's current state, there's still quite a bit of plain HTML in the files, but I'm working to make the back end more modular and easier to theme by moving all of the actual display code into a seperate file, so soon it should be even easier to customise.
 
-I hope you enjoy using PolyBox, and if you wish to contribute to the project, feel free to add any new features and submit a pull request on GitHub. If your feature gets added to the main version, your name or GitHub nickname will be added to the developer list and source code
+Screenshots
+-------
+
+Screenshot 1 [uploads/default_home.png]
+Screenshot 2 ]uploads/default_post.png]
+
+Contributing
+------
+
+I hope you enjoy using PolyBox, and if you wish to contribute to the project, feel free to add any new features and submit a pull request on GitHub. If your feature gets added to the main version, your name or GitHub nickname will be added to the developer list and source code.
 
 Happy hacking!
