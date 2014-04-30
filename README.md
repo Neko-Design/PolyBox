@@ -29,6 +29,8 @@ As a student, I don't really have time to make immediate fixes on the code or up
 
 In it's current state, there's still quite a bit of plain HTML in the files, but I'm working to make the back end more modular and easier to theme by moving all of the actual display code into a seperate file, so soon it should be even easier to customise.
 
+At this point, it is important to note that this software is in EXTREME ALPHA STAGE, and more than likely will not work in any way shape or form on a production website. I am still working out bugs in the menu system and user authentication, so at the moment, they are hard coded into the files.
+
 Screenshots
 -------
 
