@@ -36,8 +36,9 @@ At this point, it is important to note that this software is in EXTREME ALPHA ST
 Screenshots
 -------
 
-  - [Screenshot 1](screenshots/default_home.png)
-  - [Screenshot 2](screenshots/default_post.png)
+  - [Default Post List](screenshots/default_home.png)
+  - [Post Page with Comments](screenshots/default_post.png)
+  - [Post Management Page](screenshots/manage_posts.png)
 
 Please note Disqus comments are enabled by the user and require a Disqus account prior to use.
 
