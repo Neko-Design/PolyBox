@@ -1,5 +1,7 @@
 <img src="main.png" alt="PolyBox Logo">
 
+WARNING! This software is still under heavy development and will probably be broken for quite a while. Don't download it unless you are interested in developing the software further as you will require knowledge of PHP and SQL to make it work correctly.
+
 Welcome to PolyBox! This blogging software was developed by Ewen McCahon as a simple and lightweight blog that could be easily modified and styled even by beginner users. All you require for the basic blog is a web server with PHP and MySQL.
 
 In it's default setting, PolyBox doesn't use JavaScript or HTML5, so it's compatible with most users. If you wish to use some of the advanced features, enable the 'Modern Theme' on the settings page.
