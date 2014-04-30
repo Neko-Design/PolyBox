@@ -33,6 +33,11 @@ In it's current state, there's still quite a bit of plain HTML in the files, but
 
 At this point, it is important to note that this software is in EXTREME ALPHA STAGE, and more than likely will not work in any way shape or form on a production website. I am still working out bugs in the menu system and user authentication, so at the moment, they are hard coded into the files.
 
+Warnings
+------
+
+  - Login is hardcoded, need to write login script. To login, goto admin/login.php and it will create the required cookie. To be done: Password system in DB.
+
 Screenshots
 -------
 
