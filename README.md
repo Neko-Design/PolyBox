@@ -11,7 +11,7 @@ Along with ease of use and simplicity, PolyBox offers a few other features such 
 
   - Varying User access levels
   - Dynamic Error Pages
-  - Content Slugs (http://site.com/post-title)
+  - Content Slugs eg. http://site.com/post-title
   - Management and Editing Interface
   - Statistics and Logging
 
@@ -31,8 +31,8 @@ In it's current state, there's still quite a bit of plain HTML in the files, but
 Screenshots
 -------
 
-Screenshot 1 [uploads/default_home.png]
-Screenshot 2 [uploads/default_post.png]
+[Screenshot 1](uploads/default_home.png)
+[Screenshot 2](uploads/default_post.png)
 
 Contributing
 ------
