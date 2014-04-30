@@ -32,7 +32,7 @@ Screenshots
 -------
 
 Screenshot 1 [uploads/default_home.png]
-Screenshot 2 ]uploads/default_post.png]
+Screenshot 2 [uploads/default_post.png]
 
 Contributing
 ------
