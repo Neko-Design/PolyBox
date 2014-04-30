@@ -38,7 +38,7 @@ Screenshots
 
   - [Default Post List](screenshots/default_home.png)
   - [Post Page with Comments](screenshots/default_post.png)
-  - [Post Management Page](screenshots/manage_posts.png)
+  - [Post Management Page](screenshots/manage.png)
 
 Please note Disqus comments are enabled by the user and require a Disqus account prior to use.
 
