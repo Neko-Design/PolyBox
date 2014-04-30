@@ -1,0 +1,8 @@
+RewriteEngine On
+RewriteRule ^admin.*$ - [PT]
+RewriteRule ^admin/.*$ - [PT]
+RewriteRule ^([a-z0-9\-]+)$ fancy.php?slug=$1 [L]
+RewriteRule ^([a-z0-9\-]+)/$ fancy.php?slug=$1 [L]
+RewriteRule ^page/([0-9]+)$ index.php?page=$1 [L]
+RewriteRule ^page/([0-9]+)/$ index.php?page=$1 [L]
+ErrorDocument 404 /404

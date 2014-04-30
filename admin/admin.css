@@ -1,0 +1,139 @@
+/*ADMIN CSS*/
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	background: #eee;
+	font-family: Arial, Helvetica, sans-serif;
+	color:#555555;
+    font-size: 15px;
+    font-family :'arial', sans-serif;
+    font-weight: 300;
+}
+.nav {
+	height: 45px;
+	background: #2c3e50;
+	width: 100%;
+	margin-bottom: 10px;
+}
+.nav ul {
+	list-style-type: none;
+	max-width: 960px;
+	margin: 0 auto;
+}
+.nav ul li {
+	float: left;
+	margin: 0 5px;
+}
+.nav ul li a {
+	text-decoration: none;
+	display: block;
+	color: #fff;
+	line-height: 45px;
+	padding: 0 8px;
+	text-transform: uppercase;
+	font-size: 12px;
+}
+.nav ul li.right {
+	float: right;
+}
+.nav ul li a:hover {
+	color: #d35400;
+}
+.posts {
+	width: 960px;
+	margin: 0 auto;
+	border-collapse: collapse;
+	background: #fff;
+}
+.posts a {
+	text-decoration: none;
+	color: #2c3e50;
+	border-bottom: thin dotted #2c3e50;
+}
+.posts tr th {
+	background: #d35400;
+	color: #fff;
+	padding: 10px 0;
+	font-size: 12px;
+	text-transform: uppercase;
+	text-align: left;
+	text-indent: 10px;
+}
+.posts tr td {
+	padding: 8px 10px;
+	font-size: 16px;
+	vertical-align: text-top;
+}
+.controls {
+	font-size: 10px;
+	text-transform: uppercase;
+	visibility: hidden;
+}
+.posts tr td:hover .controls {
+	visibility: visible;
+}
+.editpage {
+	width: 960px;
+	margin: 0 auto;
+}
+.ptitle {
+	padding: 5px 0;;
+	width: 100%;
+}
+.options {
+	width: 100%;
+	padding: 5px 0;
+	color: #fff;
+	background: #d35400;
+	margin-bottom: 10px;
+}
+.options .btn {
+	padding: 3px 7px;
+	color: #fff;
+	background: #2c3e50;
+	border: none;
+	border-radius: 2px;
+	float: right;
+	margin-right: 10px;
+}
+h1 {
+	margin-bottom: 10px;
+}
+.clearfix {
+	clear: both;
+	width: 100%;
+}
+
+/* File Uploader */
+
+.fileUpload {
+	position: relative;
+	overflow: hidden;
+	margin: 10px;
+	border: 1px solid #999;
+	background: #069;
+	color: #fff;
+	cursor: pointer;
+	width: 80px;
+	height: 30px;
+}
+.fileUpload span {
+	line-height: 30px;
+	display: block;
+}
+.fileUpload input.upload {
+	position: absolute;
+	top: 0;
+	right: 0;
+	margin: 0;
+	padding: 0;
+	font-size: 20px;
+	cursor: pointer;
+	opacity: 0;
+	filter: alpha(opacity=0);
+}
+.fupload {
+	padding: 15px;
+}
