@@ -23,6 +23,7 @@ With a few extra checkboxes, PolyBox can make use of many extra JavaScript libra
   - Drag and Drop File Uploading
   - Fancy Post management interface
   - Fancy menu editor
+  - Disqus Comments
 
 As a student, I don't really have time to make immediate fixes on the code or update broken features, but the source code is (relatively) easy to read and finding the source of problems shouldn't be hard if you know even basic PHP.
 
@@ -33,6 +34,8 @@ Screenshots
 
   - [Screenshot 1](screenshots/default_home.png)
   - [Screenshot 2](screenshots/default_post.png)
+
+Please note Disqus comments are enabled by the user and require a Disqus account prior to use.
 
 Contributing
 ------
