@@ -1,5 +1,4 @@
-PolyBox CMS & Blogging Platform
-=======
+<img src="https://raw.githubusercontent.com/Neko-Design/PolyBox/master/logo.png" alt="PolyBox Logo">
 
 Welcome to PolyBox! This blogging software was developed by Ewen McCahon as a simple and lightweight blog that could be easily modified and styled even by beginner users. All you require for the basic blog is a web server with PHP and MySQL.
 
