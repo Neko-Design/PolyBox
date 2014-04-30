@@ -31,8 +31,8 @@ In it's current state, there's still quite a bit of plain HTML in the files, but
 Screenshots
 -------
 
-[Screenshot 1](uploads/default_home.png)
-[Screenshot 2](uploads/default_post.png)
+[Screenshot 1](screenshots/default_home.png)
+[Screenshot 2](screenshots/default_post.png)
 
 Contributing
 ------
