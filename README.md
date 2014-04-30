@@ -6,6 +6,11 @@ Welcome to PolyBox! This blogging software was developed by Ewen McCahon as a si
 
 In it's default setting, PolyBox doesn't use JavaScript or HTML5, so it's compatible with most users. If you wish to use some of the advanced features, enable the 'Modern Theme' on the settings page.
 
+Installation
+------
+
+Read the [Installation Manual](INSTALL.md) for a guide on how to get started.
+
 Features
 ------
 
